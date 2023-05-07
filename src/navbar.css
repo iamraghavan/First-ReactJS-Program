@@ -1,0 +1,11 @@
+.nav-pad {
+  margin: 0px 10px 10px 10px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a {
+  color: #000000;
+}
